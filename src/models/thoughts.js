@@ -1,5 +1,5 @@
 import { Schema, model, Types } from 'mongoose';
-import formatTimestamp from '../utils/dateFormat.js';
+import { formatTimestamp } from '../utils/dateFormat.js';
 
 const reactionSchema = new Schema(
   {
