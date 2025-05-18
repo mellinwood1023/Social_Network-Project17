@@ -109,6 +109,9 @@ DELETE	/api/thoughts/:thoughtId/reactions/:reactionId	Delete a specific reaction
 https://github.com/user-attachments/assets/08f8744e-31b7-49fa-9f3c-9d5d61fd2e45
 
 
+## Contributions
+
+Thank you for the help I recieved from the TA team and the bootcamp. Special thank you to the tutors of the EDX program ! 
 
 ## License
 This project is licensed under the MIT License.
